@@ -8,3 +8,7 @@ This project roughly took 120 hours to print
 The base took the longest which took about 20 hours to print
 
 ![alt text](https://howtomechatronics.com/wp-content/uploads/2020/10/Arduino-based-SCARA-Robot--768x432.jpg?ezimgfmt=ng:webp/ngcb2)
+
+Parts list for this project is above in the directory.
+
+![alt text](https://howtomechatronics.com/wp-content/uploads/2020/10/SCARA-Robot-3D-Model-768x508.jpg?ezimgfmt=ng:webp/ngcb2)
